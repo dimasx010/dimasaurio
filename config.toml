@@ -1,5 +1,5 @@
 baseURL = 'https://dimasx010.github.io/dimasaurio/'
-languageCode = 'es-es'
+languageCode = 'es'
 title = 'Dimasaurios New Hugo Site'
 theme = "tale"
 
